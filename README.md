@@ -1,6 +1,1 @@
-In this project. I'll be recreating Google's homepage using dev tools, CCS and HTML. 
-
-
-This is my first delve into web development. 
-
-Here goes nothing. 
+This is my first attempt at web development. I plan to use Chrome Dev Tools, CSS, and HTML to create a mock version of Google's homepage. 
